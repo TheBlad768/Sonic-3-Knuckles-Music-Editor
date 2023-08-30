@@ -1,0 +1,5 @@
+*.asm text
+*.txt text
+*.bin binary
+*.snd binary
+*.dpcm binary
